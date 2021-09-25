@@ -3,9 +3,9 @@
 using System;
 namespace App.HS4MT
 {
-    public class MyClass
+    public class App
     {
-        public MyClass()
+        public App()
         {
         }
     }
